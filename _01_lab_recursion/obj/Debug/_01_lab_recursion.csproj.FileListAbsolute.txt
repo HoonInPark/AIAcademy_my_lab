@@ -1,0 +1,8 @@
+C:\Users\이주영\Desktop\AIAcademy\_01_CSharp\_01_lab_recursion\_01_lab_recursion\bin\Debug\_01_lab_recursion.exe.config
+C:\Users\이주영\Desktop\AIAcademy\_01_CSharp\_01_lab_recursion\_01_lab_recursion\bin\Debug\_01_lab_recursion.exe
+C:\Users\이주영\Desktop\AIAcademy\_01_CSharp\_01_lab_recursion\_01_lab_recursion\bin\Debug\_01_lab_recursion.pdb
+C:\Users\이주영\Desktop\AIAcademy\_01_CSharp\_01_lab_recursion\_01_lab_recursion\obj\Debug\_01_lab_recursion.csproj.AssemblyReference.cache
+C:\Users\이주영\Desktop\AIAcademy\_01_CSharp\_01_lab_recursion\_01_lab_recursion\obj\Debug\_01_lab_recursion.csproj.SuggestedBindingRedirects.cache
+C:\Users\이주영\Desktop\AIAcademy\_01_CSharp\_01_lab_recursion\_01_lab_recursion\obj\Debug\_01_lab_recursion.csproj.CoreCompileInputs.cache
+C:\Users\이주영\Desktop\AIAcademy\_01_CSharp\_01_lab_recursion\_01_lab_recursion\obj\Debug\_01_lab_recursion.exe
+C:\Users\이주영\Desktop\AIAcademy\_01_CSharp\_01_lab_recursion\_01_lab_recursion\obj\Debug\_01_lab_recursion.pdb
