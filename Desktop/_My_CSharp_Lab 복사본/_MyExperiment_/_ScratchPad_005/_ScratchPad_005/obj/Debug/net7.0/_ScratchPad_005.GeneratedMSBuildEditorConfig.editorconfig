@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = _ScratchPad_005
+build_property.ProjectDir = /Users/changjoonlee/Desktop/forGit/_My_CSharp_Lab 복사본/_MyExperiment_/_ScratchPad_005/_ScratchPad_005/

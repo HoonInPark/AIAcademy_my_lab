@@ -1,0 +1,15 @@
+/Users/changjoonlee/Desktop/_My_CSharp_Lab/_MyExperiment_/_ScratchPad_005/_ScratchPad_005/bin/Debug/net7.0/_ScratchPad_005
+/Users/changjoonlee/Desktop/_My_CSharp_Lab/_MyExperiment_/_ScratchPad_005/_ScratchPad_005/bin/Debug/net7.0/_ScratchPad_005.deps.json
+/Users/changjoonlee/Desktop/_My_CSharp_Lab/_MyExperiment_/_ScratchPad_005/_ScratchPad_005/bin/Debug/net7.0/_ScratchPad_005.runtimeconfig.json
+/Users/changjoonlee/Desktop/_My_CSharp_Lab/_MyExperiment_/_ScratchPad_005/_ScratchPad_005/bin/Debug/net7.0/_ScratchPad_005.dll
+/Users/changjoonlee/Desktop/_My_CSharp_Lab/_MyExperiment_/_ScratchPad_005/_ScratchPad_005/bin/Debug/net7.0/_ScratchPad_005.pdb
+/Users/changjoonlee/Desktop/_My_CSharp_Lab/_MyExperiment_/_ScratchPad_005/_ScratchPad_005/obj/Debug/net7.0/_ScratchPad_005.csproj.AssemblyReference.cache
+/Users/changjoonlee/Desktop/_My_CSharp_Lab/_MyExperiment_/_ScratchPad_005/_ScratchPad_005/obj/Debug/net7.0/_ScratchPad_005.GeneratedMSBuildEditorConfig.editorconfig
+/Users/changjoonlee/Desktop/_My_CSharp_Lab/_MyExperiment_/_ScratchPad_005/_ScratchPad_005/obj/Debug/net7.0/_ScratchPad_005.AssemblyInfoInputs.cache
+/Users/changjoonlee/Desktop/_My_CSharp_Lab/_MyExperiment_/_ScratchPad_005/_ScratchPad_005/obj/Debug/net7.0/_ScratchPad_005.AssemblyInfo.cs
+/Users/changjoonlee/Desktop/_My_CSharp_Lab/_MyExperiment_/_ScratchPad_005/_ScratchPad_005/obj/Debug/net7.0/_ScratchPad_005.csproj.CoreCompileInputs.cache
+/Users/changjoonlee/Desktop/_My_CSharp_Lab/_MyExperiment_/_ScratchPad_005/_ScratchPad_005/obj/Debug/net7.0/_ScratchPad_005.dll
+/Users/changjoonlee/Desktop/_My_CSharp_Lab/_MyExperiment_/_ScratchPad_005/_ScratchPad_005/obj/Debug/net7.0/refint/_ScratchPad_005.dll
+/Users/changjoonlee/Desktop/_My_CSharp_Lab/_MyExperiment_/_ScratchPad_005/_ScratchPad_005/obj/Debug/net7.0/_ScratchPad_005.pdb
+/Users/changjoonlee/Desktop/_My_CSharp_Lab/_MyExperiment_/_ScratchPad_005/_ScratchPad_005/obj/Debug/net7.0/_ScratchPad_005.genruntimeconfig.cache
+/Users/changjoonlee/Desktop/_My_CSharp_Lab/_MyExperiment_/_ScratchPad_005/_ScratchPad_005/obj/Debug/net7.0/ref/_ScratchPad_005.dll
